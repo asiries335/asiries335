@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7"
+    "webpack-cli": "^3.3.12"
   },
   "browser": {
     "vue": "vue/dist/vue.common.js"
